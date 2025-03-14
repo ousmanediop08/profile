@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi👋,+I'm+Vaishnavi Avinash+Gawali" alt="Typing VAG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi👋,+I'm+OUSMANE" alt="Typing VAG">
 </div>
 
 <h3 align="center">Welcome to my GitHub profile! I'm a data-driven professional with more than 4 years of experience in Data Analytics, Engineering, and Project Management. Proficient in designing and implementing data pipelines, conducting in-depth data analysis, creating informative dashboards, and delivering actionable insights to support decision-making processes.. </h3>
